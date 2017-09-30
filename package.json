@@ -1,0 +1,34 @@
+{
+  "name": "62fc741da45c8d96bf65b80dc02377d91a60a2fa",
+  "version": "1.0.0",
+  "description": "Randy Lowe -  Mercari Skill test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-rec/62fc741da45c8d96bf65b80dc02377d91a60a2fa.git"
+  },
+  "author": "Randy Lowe (randy@weblogix.ca)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-rec/62fc741da45c8d96bf65b80dc02377d91a60a2fa/issues"
+  },
+  "homepage": "https://github.com/m-rec/62fc741da45c8d96bf65b80dc02377d91a60a2fa#readme",
+  "dependencies": {
+    "express": "^4.16.0",
+    "foundation-sites": "^6.4.3",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "nodemon": "^1.12.1",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0"
+  }
+}
